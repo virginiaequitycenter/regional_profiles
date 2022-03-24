@@ -1,0 +1,27 @@
+sex,age_group,estimate
+Female,10 to 14 years,983
+Female,15 to 19 years,842
+Female,20 to 24 years,831
+Female,25 to 34 years,2152
+Female,35 to 44 years,2123
+Female,45 to 54 years,2535
+Female,5 to 9 years,1135
+Female,55 to 59 years,1362
+Female,60 to 64 years,1666
+Female,65 to 74 years,2315
+Female,75 to 84 years,1069
+Female,85 years and over,341
+Female,Under 5 years,1007
+Male,10 to 14 years,868
+Male,15 to 19 years,954
+Male,20 to 24 years,1017
+Male,25 to 34 years,1980
+Male,35 to 44 years,2021
+Male,45 to 54 years,2443
+Male,5 to 9 years,1184
+Male,55 to 59 years,1450
+Male,60 to 64 years,1434
+Male,65 to 74 years,2151
+Male,75 to 84 years,960
+Male,85 years and over,218
+Male,Under 5 years,999

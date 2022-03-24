@@ -1,0 +1,49 @@
+fips,state,county,demographic,number
+51000,Virginia,total,total,79.478556461
+51003,Virginia,Albemarle,total,83.0042709
+51065,Virginia,Fluvanna,total,80.728037886
+51079,Virginia,Greene,total,79.894073332
+51109,Virginia,Louisa,total,78.133201156
+51125,Virginia,Nelson,total,78.04309464
+51540,Virginia,Charlottesville City,total,79.751236188
+00000,United States,total,total,79.089130214
+51000,Virginia,total,aian,NA
+51003,Virginia,Albemarle,aian,NA
+51065,Virginia,Fluvanna,aian,NA
+51079,Virginia,Greene,aian,NA
+51109,Virginia,Louisa,aian,NA
+51125,Virginia,Nelson,aian,NA
+51540,Virginia,Charlottesville City,aian,NA
+00000,United States,total,aian,76.865497159
+51000,Virginia,total,asian,NA
+51003,Virginia,Albemarle,asian,92.118031966
+51065,Virginia,Fluvanna,asian,NA
+51079,Virginia,Greene,asian,NA
+51109,Virginia,Louisa,asian,NA
+51125,Virginia,Nelson,asian,NA
+51540,Virginia,Charlottesville City,asian,94.26727731
+00000,United States,total,asian,87.711804184
+51000,Virginia,total,black,NA
+51003,Virginia,Albemarle,black,77.755416531
+51065,Virginia,Fluvanna,black,78.530999314
+51079,Virginia,Greene,black,NA
+51109,Virginia,Louisa,black,77.22550163
+51125,Virginia,Nelson,black,76.56897292
+51540,Virginia,Charlottesville City,black,75.368878146
+00000,United States,total,black,75.491441129
+51000,Virginia,total,hispanic,NA
+51003,Virginia,Albemarle,hispanic,90.870008585
+51065,Virginia,Fluvanna,hispanic,NA
+51079,Virginia,Greene,hispanic,NA
+51109,Virginia,Louisa,hispanic,NA
+51125,Virginia,Nelson,hispanic,NA
+51540,Virginia,Charlottesville City,hispanic,94.457753643
+00000,United States,total,hispanic,83.733348218
+51000,Virginia,total,white,NA
+51003,Virginia,Albemarle,white,83.379230365
+51065,Virginia,Fluvanna,white,80.89656724
+51079,Virginia,Greene,white,NA
+51109,Virginia,Louisa,white,77.922256929
+51125,Virginia,Nelson,white,77.94536072
+51540,Virginia,Charlottesville City,white,80.660055407
+00000,United States,total,white,78.817348053

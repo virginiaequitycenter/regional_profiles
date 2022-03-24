@@ -1,0 +1,4 @@
+GEOID,NAME,variable,estimate,moe
+51079030101,"Census Tract 301.01, Greene County, Virginia",S1901_C01_012,53843,11438
+51079030102,"Census Tract 301.02, Greene County, Virginia",S1901_C01_012,60244,17952
+51079030200,"Census Tract 302, Greene County, Virginia",S1901_C01_012,77827,11885

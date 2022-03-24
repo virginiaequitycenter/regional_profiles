@@ -1,0 +1,5 @@
+GEOID,NAME,variable,estimate,moe
+51065020101,"Census Tract 201.01, Fluvanna County, Virginia",S1901_C01_012,76571,7305
+51065020102,"Census Tract 201.02, Fluvanna County, Virginia",S1901_C01_012,80828,4620
+51065020200,"Census Tract 202, Fluvanna County, Virginia",S1901_C01_012,69679,12091
+51065020300,"Census Tract 203, Fluvanna County, Virginia",S1901_C01_012,67228,18445

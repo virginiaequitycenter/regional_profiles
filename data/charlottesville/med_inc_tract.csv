@@ -1,0 +1,13 @@
+GEOID,NAME,variable,estimate,moe
+51540000201,"Census Tract 2.01, Charlottesville city, Virginia",S1901_C01_012,60200,15258
+51540000202,"Census Tract 2.02, Charlottesville city, Virginia",S1901_C01_012,23750,8771
+51540000302,"Census Tract 3.02, Charlottesville city, Virginia",S1901_C01_012,64099,8723
+51540000401,"Census Tract 4.01, Charlottesville city, Virginia",S1901_C01_012,58443,11718
+51540000402,"Census Tract 4.02, Charlottesville city, Virginia",S1901_C01_012,54078,13291
+51540000501,"Census Tract 5.01, Charlottesville city, Virginia",S1901_C01_012,43413,5388
+51540000502,"Census Tract 5.02, Charlottesville city, Virginia",S1901_C01_012,93177,16597
+51540000600,"Census Tract 6, Charlottesville city, Virginia",S1901_C01_012,27639,10578
+51540000700,"Census Tract 7, Charlottesville city, Virginia",S1901_C01_012,80905,17208
+51540000800,"Census Tract 8, Charlottesville city, Virginia",S1901_C01_012,71648,10545
+51540000900,"Census Tract 9, Charlottesville city, Virginia",S1901_C01_012,77672,19197
+51540001000,"Census Tract 10, Charlottesville city, Virginia",S1901_C01_012,69130,26183

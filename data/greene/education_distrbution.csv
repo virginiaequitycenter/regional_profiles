@@ -1,0 +1,121 @@
+Race,Sex,degree,percent
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,All,Bachelor's degree or higher,30
+ASIAN ALONE,All,Bachelor's degree or higher,44.537815126050425
+BLACK OR AFRICAN AMERICAN ALONE,All,Bachelor's degree or higher,24.575311438278597
+HISPANIC OR LATINO,All,Bachelor's degree or higher,20.903954802259886
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",All,Bachelor's degree or higher,NA
+SOME OTHER RACE ALONE,All,Bachelor's degree or higher,0
+TWO OR MORE RACES,All,Bachelor's degree or higher,30.545454545454547
+WHITE ALONE,All,Bachelor's degree or higher,29.783989834815756
+"WHITE ALONE, NOT HISPANIC OR LATINO",All,Bachelor's degree or higher,29.693983402489625
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,Female,Bachelor's degree or higher,100
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,Male,Bachelor's degree or higher,0
+ASIAN ALONE,Female,Bachelor's degree or higher,46.15384615384615
+ASIAN ALONE,Male,Bachelor's degree or higher,41.46341463414634
+BLACK OR AFRICAN AMERICAN ALONE,Female,Bachelor's degree or higher,31.156716417910445
+BLACK OR AFRICAN AMERICAN ALONE,Male,Bachelor's degree or higher,14.409221902017292
+HISPANIC OR LATINO,Female,Bachelor's degree or higher,43.190661478599225
+HISPANIC OR LATINO,Male,Bachelor's degree or higher,0
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",Female,Bachelor's degree or higher,NA
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",Male,Bachelor's degree or higher,NA
+SOME OTHER RACE ALONE,Female,Bachelor's degree or higher,0
+SOME OTHER RACE ALONE,Male,Bachelor's degree or higher,0
+TWO OR MORE RACES,Female,Bachelor's degree or higher,19.54022988505747
+TWO OR MORE RACES,Male,Bachelor's degree or higher,35.638297872340424
+WHITE ALONE,Female,Bachelor's degree or higher,32.58390878432632
+WHITE ALONE,Male,Bachelor's degree or higher,26.658300466116884
+"WHITE ALONE, NOT HISPANIC OR LATINO",Female,Bachelor's degree or higher,32.35342966284671
+"WHITE ALONE, NOT HISPANIC OR LATINO",Male,Bachelor's degree or higher,26.80728321615288
+All,Female,Bachelor's degree or higher,32.59991019308487
+All,Male,Bachelor's degree or higher,25.433384878326688
+All,All,Bachelor's degree or higher,29.166829116144875
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,All,High school graduate,0
+ASIAN ALONE,All,High school graduate,22.268907563025213
+BLACK OR AFRICAN AMERICAN ALONE,All,High school graduate,19.932049830124576
+HISPANIC OR LATINO,All,High school graduate,68.7382297551789
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",All,High school graduate,NA
+SOME OTHER RACE ALONE,All,High school graduate,77.99352750809061
+TWO OR MORE RACES,All,High school graduate,38.18181818181819
+WHITE ALONE,All,High school graduate,27.93731469716222
+"WHITE ALONE, NOT HISPANIC OR LATINO",All,High school graduate,27.43775933609959
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,Female,High school graduate,0
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,Male,High school graduate,0
+ASIAN ALONE,Female,High school graduate,20.51282051282051
+ASIAN ALONE,Male,High school graduate,25.609756097560975
+BLACK OR AFRICAN AMERICAN ALONE,Female,High school graduate,27.798507462686565
+BLACK OR AFRICAN AMERICAN ALONE,Male,High school graduate,7.780979827089338
+HISPANIC OR LATINO,Female,High school graduate,47.081712062256805
+HISPANIC OR LATINO,Male,High school graduate,89.05109489051095
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",Female,High school graduate,NA
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",Male,High school graduate,NA
+SOME OTHER RACE ALONE,Female,High school graduate,31.818181818181817
+SOME OTHER RACE ALONE,Male,High school graduate,90.53497942386831
+TWO OR MORE RACES,Female,High school graduate,0
+TWO OR MORE RACES,Male,High school graduate,55.85106382978723
+WHITE ALONE,Female,High school graduate,27.95888871045447
+WHITE ALONE,Male,High school graduate,27.913230548583723
+"WHITE ALONE, NOT HISPANIC OR LATINO",Female,High school graduate,27.254608868958645
+"WHITE ALONE, NOT HISPANIC OR LATINO",Male,High school graduate,27.636560302866414
+All,Female,High school graduate,27.727885047148632
+All,Male,High school graduate,30.170098478066247
+All,All,High school graduate,28.89781278022535
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,All,Less than high school diploma,0
+ASIAN ALONE,All,Less than high school diploma,29.831932773109244
+BLACK OR AFRICAN AMERICAN ALONE,All,Less than high school diploma,11.89127972819932
+HISPANIC OR LATINO,All,Less than high school diploma,5.649717514124294
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",All,Less than high school diploma,NA
+SOME OTHER RACE ALONE,All,Less than high school diploma,7.443365695792881
+TWO OR MORE RACES,All,Less than high school diploma,0.36363636363636365
+WHITE ALONE,All,Less than high school diploma,14.299025836509955
+"WHITE ALONE, NOT HISPANIC OR LATINO",All,Less than high school diploma,14.531466113416322
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,Female,Less than high school diploma,0
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,Male,Less than high school diploma,0
+ASIAN ALONE,Female,Less than high school diploma,33.33333333333333
+ASIAN ALONE,Male,Less than high school diploma,23.170731707317074
+BLACK OR AFRICAN AMERICAN ALONE,Female,Less than high school diploma,9.14179104477612
+BLACK OR AFRICAN AMERICAN ALONE,Male,Less than high school diploma,16.138328530259365
+HISPANIC OR LATINO,Female,Less than high school diploma,0
+HISPANIC OR LATINO,Male,Less than high school diploma,10.948905109489052
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",Female,Less than high school diploma,NA
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",Male,Less than high school diploma,NA
+SOME OTHER RACE ALONE,Female,Less than high school diploma,0
+SOME OTHER RACE ALONE,Male,Less than high school diploma,9.465020576131687
+TWO OR MORE RACES,Female,Less than high school diploma,1.1494252873563218
+TWO OR MORE RACES,Male,Less than high school diploma,0
+WHITE ALONE,Female,Less than high school diploma,12.204914083828488
+WHITE ALONE,Male,Less than high school diploma,16.636787378988885
+"WHITE ALONE, NOT HISPANIC OR LATINO",Female,Less than high school diploma,12.62248795881083
+"WHITE ALONE, NOT HISPANIC OR LATINO",Male,Less than high school diploma,16.60356949702542
+All,Female,Less than high school diploma,12.138901362071545
+All,Male,Less than high school diploma,16.090176609424596
+All,All,Less than high school diploma,14.03173613006355
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,All,Some college or associate's degree,70
+ASIAN ALONE,All,Some college or associate's degree,3.361344537815126
+BLACK OR AFRICAN AMERICAN ALONE,All,Some college or associate's degree,43.60135900339751
+HISPANIC OR LATINO,All,Some college or associate's degree,4.708097928436912
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",All,Some college or associate's degree,NA
+SOME OTHER RACE ALONE,All,Some college or associate's degree,14.563106796116504
+TWO OR MORE RACES,All,Some college or associate's degree,30.909090909090907
+WHITE ALONE,All,Some college or associate's degree,27.97966963151207
+"WHITE ALONE, NOT HISPANIC OR LATINO",All,Some college or associate's degree,28.336791147994468
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,Female,Some college or associate's degree,0
+AMERICAN INDIAN AND ALASKA NATIVE ALONE,Male,Some college or associate's degree,100
+ASIAN ALONE,Female,Some college or associate's degree,0
+ASIAN ALONE,Male,Some college or associate's degree,9.75609756097561
+BLACK OR AFRICAN AMERICAN ALONE,Female,Some college or associate's degree,31.902985074626866
+BLACK OR AFRICAN AMERICAN ALONE,Male,Some college or associate's degree,61.67146974063401
+HISPANIC OR LATINO,Female,Some college or associate's degree,9.72762645914397
+HISPANIC OR LATINO,Male,Some college or associate's degree,0
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",Female,Some college or associate's degree,NA
+"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE",Male,Some college or associate's degree,NA
+SOME OTHER RACE ALONE,Female,Some college or associate's degree,68.18181818181817
+SOME OTHER RACE ALONE,Male,Some college or associate's degree,0
+TWO OR MORE RACES,Female,Some college or associate's degree,79.3103448275862
+TWO OR MORE RACES,Male,Some college or associate's degree,8.51063829787234
+WHITE ALONE,Female,Some college or associate's degree,27.25228842139072
+WHITE ALONE,Male,Some college or associate's degree,28.791681606310505
+"WHITE ALONE, NOT HISPANIC OR LATINO",Female,Some college or associate's degree,27.769473509383825
+"WHITE ALONE, NOT HISPANIC OR LATINO",Male,Some college or associate's degree,28.952586983955293
+All,Female,Some college or associate's degree,27.533303397694958
+All,Male,Some college or associate's degree,28.30634003418247
+All,All,Some college or associate's degree,27.903621973566224

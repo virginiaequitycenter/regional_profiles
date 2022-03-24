@@ -1,0 +1,23 @@
+GEOID,NAME,variable,estimate,moe
+51003010100,"Census Tract 101, Albemarle County, Virginia",S1901_C01_012,93031,20012
+51003010201,"Census Tract 102.01, Albemarle County, Virginia",S1901_C01_012,83281,4796
+51003010202,"Census Tract 102.02, Albemarle County, Virginia",S1901_C01_012,125398,14029
+51003010300,"Census Tract 103, Albemarle County, Virginia",S1901_C01_012,88560,8716
+51003010401,"Census Tract 104.01, Albemarle County, Virginia",S1901_C01_012,76452,12060
+51003010402,"Census Tract 104.02, Albemarle County, Virginia",S1901_C01_012,99800,10822
+51003010500,"Census Tract 105, Albemarle County, Virginia",S1901_C01_012,78112,16016
+51003010601,"Census Tract 106.01, Albemarle County, Virginia",S1901_C01_012,62500,12156
+51003010602,"Census Tract 106.02, Albemarle County, Virginia",S1901_C01_012,93458,9409
+51003010700,"Census Tract 107, Albemarle County, Virginia",S1901_C01_012,58301,8209
+51003010800,"Census Tract 108, Albemarle County, Virginia",S1901_C01_012,66097,10106
+51003010901,"Census Tract 109.01, Albemarle County, Virginia",S1901_C01_012,41500,14922
+51003010902,"Census Tract 109.02, Albemarle County, Virginia",S1901_C01_012,46103,11104
+51003010903,"Census Tract 109.03, Albemarle County, Virginia",S1901_C01_012,NA,NA
+51003011000,"Census Tract 110, Albemarle County, Virginia",S1901_C01_012,135078,25242
+51003011100,"Census Tract 111, Albemarle County, Virginia",S1901_C01_012,80556,19738
+51003011201,"Census Tract 112.01, Albemarle County, Virginia",S1901_C01_012,89138,7855
+51003011202,"Census Tract 112.02, Albemarle County, Virginia",S1901_C01_012,133162,19831
+51003011301,"Census Tract 113.01, Albemarle County, Virginia",S1901_C01_012,74861,11431
+51003011302,"Census Tract 113.02, Albemarle County, Virginia",S1901_C01_012,61292,6493
+51003011303,"Census Tract 113.03, Albemarle County, Virginia",S1901_C01_012,82352,4805
+51003011400,"Census Tract 114, Albemarle County, Virginia",S1901_C01_012,59286,9558
