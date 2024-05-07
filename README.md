@@ -1,5 +1,4 @@
-**Created to share with Urban Planning Methods class**
-**Archived**
+**Created to share with Urban Planning Methods class (Archived)**
 
 Replicating AHDI and demographic data from Albemarle County Equity Profile for all localities in region (Blue Ridge Health District/TJ Planning Distirict).
 
